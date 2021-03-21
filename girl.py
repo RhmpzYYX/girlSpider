@@ -1,4 +1,4 @@
-# !/usr/bin/env python
+# !/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # @Time    : 2021/3/21 22:47
 # @Author  : Rhmpz
